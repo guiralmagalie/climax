@@ -9,10 +9,13 @@ Capture d'écran
 *Légende : Test de simulation d'ajout d'un nouveau employé.*
 
 ![Capture d'écran 2](uploadFile_CalculMoyenneParProfession.PNG)
-*Légende : Importation d'un fichier csv, calcul des moyenne en fonction de la profession.
+*Légende : Importation d'un fichier csv, calcul des moyenne en fonction de la profession.*
+
 NB: lors de l'apload du fichier, le fichier est enregistré dans un dossier temporaire de l'ordinateur
 Voir la sortie pour trouver le repertoire
-*
+
+![Capture d'écran 2](src/location.PNG)
+
 
 Installation
 1.Clonez ce dépôt de code sur votre machine locale: gh repo clone guiralmagalie/climax
