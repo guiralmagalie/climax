@@ -31,6 +31,15 @@ Installation
 5. Ouvrez votre navigateur web et accédez à l'URL suivante : http://localhost:3000.
 6. Interagissez avec l'application en suivant les instructions à l'écran.
 
+Important: Le backend fonction mais le front n'est pas associé au back.
+Pour exécuter les endPoints, cloner le projet ou dezipper le projet téléchargé.
+- Pour tester avec postman, il faut exécuter l'application, lancer la base de données et ouvrir postman
+- -pour upload un fichier: 
+  ** POST(methode) http://localhost:8080/api/employe/importation/file,
+  **   au niveau de body, cocher form-data, renseigner le fichier et indiquer qu'il s'agit d'un fichier en ecrivant "file",
+  **  cliquer sur "send", une réponse 200 OK s'affiche si tout est correct
+  Voir capture d'ecran pour les autres méthodes
+        
 Pre requis
 - intelliJ
 - postgreSql
