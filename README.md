@@ -5,6 +5,14 @@ Fonctionnalité 1: importer un fichier csv (par la suite xml, txt, json,etc);
 Fonctionnalité 2: calculer la moyenne des employés en fonction de leur profession
 
 Capture d'écran
+![Capture d'écran 1](ajoutEmploye.PNG)
+*Légende : Test de simulation d'ajout d'un nouveau employé.*
+
+![Capture d'écran 2](uploadFile_CalculMoyenneParProfession.PNG)
+*Légende : Importation d'un fichier csv, calcul des moyenne en fonction de la profession.
+NB: lors de l'apload du fichier, le fichier est enregistré dans un dossier temporaire de l'ordinateur
+Voir la sortie pour trouver le repertoire
+*
 
 Installation
 1.Clonez ce dépôt de code sur votre machine locale: gh repo clone guiralmagalie/climax
